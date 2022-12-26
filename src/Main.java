@@ -6,6 +6,11 @@ public class Main {
         Car kiaSportage = new Car("Kia", "Sportage", 2.4, "Красный", 2018, "Южная Корея");
         Car hyundaiAvante = new Car("Huyndai", "Avante", 1.6, "Оранжевый", 2016, "Южная Корея");
 
-
+        System.out.println(ladaGranta);
+        System.out.println(audiA8);
+        System.out.println(bmwZ8);
+        System.out.println(kiaSportage);
+        System.out.println(hyundaiAvante);
     }
+
 }
