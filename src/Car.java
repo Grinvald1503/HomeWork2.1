@@ -7,7 +7,6 @@ public class Car {
     private String country;
 
     public Car(String brand, String model, double engineVolume, String color, int year, String country) {
-
         if (brand == null) {
             this.brand = "default";
         } else {
